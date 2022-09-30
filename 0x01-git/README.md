@@ -1,1 +1,2 @@
-My first readme
+# Updating my README file
+This is how i edit on git
